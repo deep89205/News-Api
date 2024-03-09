@@ -1,1 +1,4 @@
-# News-Api
+# News-Hub
+
+News App
+
